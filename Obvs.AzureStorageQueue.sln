@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs.Microsoft.Azure.Storage.Queue", "src\Obvs.Microsoft.Azure.Storage.Queue.csproj", "{6304B22F-0493-40BF-A922-0E8B415D357B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs.AzureStorageQueue", "src\Obvs.AzureStorageQueue.csproj", "{6304B22F-0493-40BF-A922-0E8B415D357B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs.Microsoft.Azure.Storage.Queue.Tests", "test\Obvs.Microsoft.Azure.Storage.Queue.Tests.csproj", "{61E38BAD-B9DF-4333-ACE6-24DFF0B24E52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obvs.AzureStorageQueue.Tests", "test\Obvs.AzureStorageQueue.Tests.csproj", "{61E38BAD-B9DF-4333-ACE6-24DFF0B24E52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
